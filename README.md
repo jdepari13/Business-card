@@ -1,2 +1,2 @@
-# Jill-DePari
-Business card for Jill DePari
+# boilerPlate
+basic starting file structure for Umass Dartmouth
